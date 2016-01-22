@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/places/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a8df25c55ea44acdfed54f06a56f647abce154e">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/places/platforms/android/build/intermediates/pre-dexed/debug/classes-7bd4f401dbbee61488a11cf29adc1d83dc9642a8.jar" />
+    </item>
+
+</items>

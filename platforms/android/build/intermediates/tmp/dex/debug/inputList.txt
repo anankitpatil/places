@@ -1,0 +1,2 @@
+/Applications/XAMPP/xamppfiles/htdocs/places/platforms/android/build/intermediates/classes/debug
+/Applications/XAMPP/xamppfiles/htdocs/places/platforms/android/build/intermediates/pre-dexed/debug/classes-7bd4f401dbbee61488a11cf29adc1d83dc9642a8.jar
