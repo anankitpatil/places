@@ -5,7 +5,7 @@
         jar="/Applications/XAMPP/xamppfiles/htdocs/places/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="ed991793f7702b8b07601e36ba0f2ef2cd9e2c8f">
+        sha1="e8b9b9b93416f67a5e2ad1887f59a9349411fcb6">
         <dex dex="/Applications/XAMPP/xamppfiles/htdocs/places/platforms/android/build/intermediates/pre-dexed/debug/classes-7bd4f401dbbee61488a11cf29adc1d83dc9642a8.jar" />
     </item>
 
