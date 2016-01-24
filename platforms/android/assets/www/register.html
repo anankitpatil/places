@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+ <ion-header-bar align-title="center"  class="bar-positive bar-custome">
+				<h1 class="title" id="title">Register</h1>
+		</ion-header-bar>
+
+		
+		<ion-content>
+	
+  
+		
+			<div class="list card" style="margin-top: 30px;height:{{height}}px">
+            <label class="item item-input">
+              <span class="input-label">Username:</span>
+              <input type="text" ng-model="registerData.username" id="userNameInput" name="userNameInput" autofocus autocomplete="on">
+            </label>
+            <label class="item item-input">
+              <span class="input-label">Phone:</span>
+              <input type="text" ng-model="registerData.phone">
+            </label>
+			<label class="item item-input">
+              <span class="input-label">Dispaly Name:</span>
+              <input type="text" ng-model="registerData.display">
+            </label>
+           <!--  <label class="item"> -->
+               <button class="button button-positive button-block button-custome activated " style="border:none !important;margin-top:30px;"  ng-click="doregister()" >Register</button>
+		 
+          </div>
+
+</ion-content>
+
+</html>

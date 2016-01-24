@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta content="charset=utf-8">
+  <title></title>
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+   <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+    <script type="text/javascript">
+ 
+
+						if(window.localStorage.getItem("userId"))
+						{
+							window.open('dashboard.html', '_self');
+						}
+						
+          
+  </script>
+  <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+  <link href="css/loading-bar.css" rel="stylesheet">
+  
+  <script src="lib/ionic/js/ionic.bundle.js"></script>
+  
+ <script src="js/login.js"></script>
+
+   
+	 <script src="js/loading-bar.js"></script>
+    
+	
+<style>
+
+.login
+{
+  position: absolute;
+bottom: 10px;
+z-index: 9999;
+color: #fff;
+padding: 10px;
+background: #3e779d;
+left: 10px;
+border-radius: 5px;
+box-shadow: 1px 1px 0px 0px rgba(0,0,0,0.6);
+}
+.register
+{
+  position: absolute;
+bottom: 10px;
+z-index: 9999;
+color: #fff;
+padding: 10px;
+background: #3e779d;
+border-radius: 5px;
+box-shadow: 1px 1px 0px 0px rgba(0,0,0,0.6);
+
+  right: 10px;
+}
+.scroll-content{
+bottom:0px;}
+::-webkit-scrollbar { 
+    display: none; 
+}
+.popup-body{
+text-align:center;
+}
+h1#title{
+position:absolute;
+}
+<!-- background-color:#1578c8 !important; -->
+
+
+</style>
+<script type="text/javascript">
+
+	if(window.localStorage.getItem("userId"))
+	{
+							window.open('dashboard.html', '_self');
+	}
+	
+	
+ if(!window.localStorage.getItem('theme_color'))
+	 {
+	           document.getElementById('h1#title').style.background-color="#1578c8 !important";
+				
+	 }
+  	
+
+      
+  </script>
+</head>
+<body ng-app="login" onload="onLoads();">
+ <ion-header-bar align-title="center"  class="bar-positive bar-custome">
+				<h1 class="title" id="title">Login</h1>
+		</ion-header-bar>
+        <div class="flexslider" ng-controller="LoginCtrl" >
+	  <div id="style"></div> 
+		
+		<ion-content>
+		
+          <ion-slide-box on-slide-changed="slideHasChanged($index,'login.html');">
+  <ion-slide id="loginPageSlide" >
+  
+		
+			<div class="list card" style="margin-top: 30px;height:{{height}}px">
+            <label class="item item-input">
+              <span class="input-label">Username:</span>
+              <input type="text" ng-model="loginData.username" id="userNameInput" name="userNameInput" autofocus autocomplete="on">
+            </label>
+            <label class="item item-input">
+              <span class="input-label">Phone:</span>
+              <input type="text" ng-model="loginData.phone">
+            </label>
+           <!--  <label class="item"> -->
+               <button class="button button-positive button-block button-custome activated " style="border:none !important;margin-top:30px;"  ng-click="doLogin()" >Log in</button>
+			
+			<label class="item item-input">
+              <span class="input-label">Not an User yet?</span>
+            </label>
+			
+			<button class="button button-positive button-block button-custome activated " style="border:none !important;margin-top:30px;" ng-click="register()">Join Now</button>
+            <!-- </label> -->
+			<!-- </form> -->
+			 
+          </div>
+  </ion-slide>
+  
+</ion-slide-box>
+</ion-content>
+       
+<script type="text/javascript">
+
+function onLoads()
+	{
+			document.addEventListener("deviceready", onDeviceReadyLogin, false);
+	}
+	
+	function onDeviceReadyLogin() {
+		if(device.uuid)
+			window.localStorage.setItem("deviceIP",device.uuid);
+        navigator.splashscreen.hide();
+    }
+	
+	
+    if(window.localStorage.getItem('theme_color'))
+     {
+
+     document.getElementById("style").innerHTML="<style rel='stylesheet'>.list .icon{color:"+window.localStorage.getItem('theme_color')+" !important; color:#fff !important;} .button-custome,.bar-header,.bar-custome,.tabs-custome    {background:"+window.localStorage.getItem('theme_color')+" !important; color:#fff !important;}</style>";
+
+}
+    else
+    {
+
+     document.getElementById("style").innerHTML="<style rel='stylesheet'>.list .icon{color:#1578c8 !important;} .button-custome,.bar-custome,.tabs-custome ,.bar-header   {background:#1578c8 !important; color:#fff !important;}</style>";
+
+    
+    }
+      
+  </script>
+
+ 
+ 
+  
+ <style type="text/css">
+ .button.button-positive
+ {
+border:transparent !important;
+}
+ .bar.bar-positive{
+border:transparent !important;
+}
+  .slider-pager
+  {display: none !important;}</style>
+</body>
+</ion-content>
+</html>

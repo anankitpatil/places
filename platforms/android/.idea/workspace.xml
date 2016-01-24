@@ -5,40 +5,409 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13245fc-e26f-4990-ae97-1e0c9d52af58" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/test/debug/com/ionicframework/starter/test/BuildConfig.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" afterPath="$PROJECT_DIR$/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/www/templates/browse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/www/templates/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/www/templates/playlist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/www/templates/playlists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/www/templates/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/browse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/playlist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/playlists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../www/templates/browse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../www/templates/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../www/templates/playlist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../www/templates/playlists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../www/templates/search.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/android-debug-unaligned.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/android-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/android-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/android-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/assets/www/lib/angular/angular.min.js.gzip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/../../www/lib/angular/angular.min.js.gzip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/classes-7bd4f401dbbee61488a11cf29adc1d83dc9642a8.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/classes-7bd4f401dbbee61488a11cf29adc1d83dc9642a8.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar" afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/intermediates/res/resources-debug-test.ap_" afterPath="$PROJECT_DIR$/CordovaLib/build/intermediates/res/resources-debug-test.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug-test.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug-test.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/img/ionic.png" afterPath="$PROJECT_DIR$/assets/www/img/ionic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/img/ionic.png" afterPath="$PROJECT_DIR$/../../www/img/ionic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/fonts/ionicons.eot" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/fonts/ionicons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/fonts/ionicons.eot" afterPath="$PROJECT_DIR$/../../www/lib/ionic/fonts/ionicons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/fonts/ionicons.ttf" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/fonts/ionicons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/fonts/ionicons.ttf" afterPath="$PROJECT_DIR$/../../www/lib/ionic/fonts/ionicons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/fonts/ionicons.woff" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/fonts/ionicons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/fonts/ionicons.woff" afterPath="$PROJECT_DIR$/../../www/lib/ionic/fonts/ionicons.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/.bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-animate/.bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular-animate/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/.bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/.bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/.bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/.bower.json" afterPath="$PROJECT_DIR$/../../www/lib/angular/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-animate/.bower.json" afterPath="$PROJECT_DIR$/../../www/lib/angular-animate/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-sanitize/.bower.json" afterPath="$PROJECT_DIR$/../../www/lib/angular-sanitize/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/.bower.json" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/.bower.json" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/CHANGELOG.md" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/CHANGELOG.md" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/CHANGELOG.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/CHANGELOG.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/CHANGELOG.md" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/CHANGELOG.md" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/LICENSE" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/LICENSE" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/LICENSE" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/LICENSE" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/LICENSE" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/LICENSE" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/README.md" afterPath="$PROJECT_DIR$/assets/www/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/README.md" afterPath="$PROJECT_DIR$/assets/www/lib/angular/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-animate/README.md" afterPath="$PROJECT_DIR$/assets/www/lib/angular-animate/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/README.md" afterPath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/README.md" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/README.md" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/README.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/README.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/README.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/README.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/README.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/README.md" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/README.md" afterPath="$PROJECT_DIR$/../../www/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/README.md" afterPath="$PROJECT_DIR$/../../www/lib/angular/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-animate/README.md" afterPath="$PROJECT_DIR$/../../www/lib/angular-animate/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-sanitize/README.md" afterPath="$PROJECT_DIR$/../../www/lib/angular-sanitize/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/README.md" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/README.md" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_action-sheet.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_action-sheet.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_action-sheet.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_action-sheet.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_action-sheet.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_action-sheet.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_animations.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_animations.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_animations.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_animations.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_animations.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_animations.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_backdrop.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_backdrop.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_backdrop.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_backdrop.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_backdrop.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_backdrop.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_badge.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_badge.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_badge.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_badge.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_badge.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_badge.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_bar.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_bar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_bar.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_bar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_bar.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_bar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_button-bar.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_button-bar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_button-bar.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_button-bar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_button-bar.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_button-bar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_button.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_button.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_button.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_button.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_button.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_button.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_checkbox.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_checkbox.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_checkbox.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_checkbox.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_checkbox.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_checkbox.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_form.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_form.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_form.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_grid.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_grid.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_grid.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_grid.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_grid.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_grid.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionicons/_ionicons-font.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionicons/_ionicons-font.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionicons/_ionicons-font.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionicons/_ionicons-font.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionicons/_ionicons-font.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionicons/_ionicons-font.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionicons/_ionicons-icons.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionicons/_ionicons-icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionicons/_ionicons-variables.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionicons/_ionicons-variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_items.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_items.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_items.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_items.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_items.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_items.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_list.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_list.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_list.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_loading.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_loading.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_loading.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_loading.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_loading.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_loading.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_menu.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_menu.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_menu.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_menu.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_menu.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_menu.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_mixins.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_mixins.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_mixins.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_modal.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_modal.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_modal.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_modal.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_modal.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_modal.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_platform.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_platform.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_platform.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_platform.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_platform.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_platform.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_popover.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_popover.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_popover.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_popover.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_popover.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_popover.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_popup.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_popup.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_popup.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_popup.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_popup.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_popup.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_progress.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_progress.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_progress.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_progress.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_progress.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_progress.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_radio.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_radio.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_radio.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_radio.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_radio.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_radio.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_range.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_range.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_range.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_range.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_range.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_range.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_refresher.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_refresher.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_refresher.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_refresher.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_refresher.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_refresher.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_reset.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_reset.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_reset.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_reset.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_reset.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_reset.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_scaffolding.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_scaffolding.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_scaffolding.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_scaffolding.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_scaffolding.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_scaffolding.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_select.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_select.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_select.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_select.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_select.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_select.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_slide-box.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_slide-box.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_slide-box.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_slide-box.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_slide-box.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_slide-box.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_slides.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_slides.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_slides.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_slides.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_slides.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_slides.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_spinner.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_spinner.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_spinner.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_spinner.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_spinner.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_spinner.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_tabs.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_tabs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_tabs.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_tabs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_tabs.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_tabs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_toggle.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_toggle.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_toggle.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_toggle.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_toggle.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_toggle.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_transitions.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_transitions.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_transitions.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_transitions.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_transitions.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_transitions.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_type.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_type.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_type.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_type.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_type.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_type.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_util.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_util.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_util.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_util.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_util.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_util.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_variables.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_variables.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/_variables.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-animate/angular-animate.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-animate/angular-animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-animate.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/angular-animate.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/angular-animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-animate.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-animate/angular-animate.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-animate/angular-animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-animate.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-animate/angular-animate.min.js.map" afterPath="$PROJECT_DIR$/assets/www/lib/angular-animate/angular-animate.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/angular-animate.min.js.map" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/angular-animate.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-animate/angular-animate.min.js.map" afterPath="$PROJECT_DIR$/../../www/lib/angular-animate/angular-animate.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-animate/angular-animate.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-animate/angular-animate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-animate.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-animate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/angular-animate.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/angular-animate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-animate.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-animate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-animate/angular-animate.min.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-animate/angular-animate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-animate.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-animate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/angular-csp.css" afterPath="$PROJECT_DIR$/assets/www/lib/angular/angular-csp.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/angular-csp.css" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/angular-csp.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/angular-csp.css" afterPath="$PROJECT_DIR$/../../www/lib/angular/angular-csp.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-resource.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-resource.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-resource.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-resource.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-resource.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-resource.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-resource.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-resource.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-resource.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/angular-sanitize.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/angular-sanitize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-sanitize.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-sanitize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/angular-sanitize.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/angular-sanitize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-sanitize.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-sanitize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-sanitize/angular-sanitize.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-sanitize/angular-sanitize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-sanitize.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-sanitize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/angular-sanitize.min.js.map" afterPath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/angular-sanitize.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/angular-sanitize.min.js.map" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/angular-sanitize.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-sanitize/angular-sanitize.min.js.map" afterPath="$PROJECT_DIR$/../../www/lib/angular-sanitize/angular-sanitize.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-sanitize/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-sanitize/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular-sanitize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/api/angular-ui-router.d.ts" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/api/angular-ui-router.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/api/angular-ui-router.d.ts" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/api/angular-ui-router.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/api/angular-ui-router.d.ts" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/api/angular-ui-router.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/release/angular-ui-router.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/release/angular-ui-router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular-ui/angular-ui-router.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular-ui/angular-ui-router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/release/angular-ui-router.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/release/angular-ui-router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular-ui/angular-ui-router.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular-ui/angular-ui-router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/release/angular-ui-router.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/release/angular-ui-router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular-ui/angular-ui-router.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular-ui/angular-ui-router.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/release/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/release/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/release/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular-ui/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular-ui/angular-ui-router.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/angular.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/angular.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/angular.js" afterPath="$PROJECT_DIR$/../../www/lib/angular/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/assets/www/lib/angular/angular.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/angular.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/../../www/lib/angular/angular.min.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/angular.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/angular.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/angular.min.js" afterPath="$PROJECT_DIR$/../../www/lib/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/angular/angular.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/js/app.js" afterPath="$PROJECT_DIR$/assets/www/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/js/app.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/js/app.js" afterPath="$PROJECT_DIR$/../../www/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../bower.json" afterPath="$PROJECT_DIR$/../../bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-animate/bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular-animate/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/bower.json" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/bower.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/bower.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/bower.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/bower.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/bower.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/bower.json" afterPath="$PROJECT_DIR$/../../www/lib/angular/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-animate/bower.json" afterPath="$PROJECT_DIR$/../../www/lib/angular-animate/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-sanitize/bower.json" afterPath="$PROJECT_DIR$/../../www/lib/angular-sanitize/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/bower.json" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/bower.json" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/common.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/common.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/common.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/common.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/js/controllers.js" afterPath="$PROJECT_DIR$/assets/www/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/js/controllers.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/js/controllers.js" afterPath="$PROJECT_DIR$/../../www/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/assets/www/_notes/dwsync.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/css/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/assets/www/css/_notes/dwsync.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/js/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/assets/www/js/_notes/dwsync.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/templates/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/assets/www/templates/_notes/dwsync.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/../../www/_notes/dwsync.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/css/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/../../www/css/_notes/dwsync.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/js/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/../../www/js/_notes/dwsync.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/templates/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/../../www/templates/_notes/dwsync.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/index.html" afterPath="$PROJECT_DIR$/assets/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/index.html" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/index.html" afterPath="$PROJECT_DIR$/../../www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/apk/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/index.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-animate/index.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-animate/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/index.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/index.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/index.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/index.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/index.js" afterPath="$PROJECT_DIR$/../../www/lib/angular/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-animate/index.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-animate/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-sanitize/index.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-sanitize/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic-angular.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic-angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic-angular.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic-angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic-angular.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic-angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic-angular.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic-angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic-angular.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic-angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic-angular.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic-angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic.bundle.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic.bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic.bundle.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic.bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic.bundle.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic.bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic.bundle.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic.bundle.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic.bundle.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic.bundle.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic.bundle.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic.bundle.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/css/ionic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/css/ionic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/css/ionic.css" afterPath="$PROJECT_DIR$/../../www/lib/ionic/css/ionic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/css/ionic.min.css" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/css/ionic.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/css/ionic.min.css" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/css/ionic.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/css/ionic.min.css" afterPath="$PROJECT_DIR$/../../www/lib/ionic/css/ionic.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/js/ionic.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/js/ionic.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ionic/js/ionic.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionic.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionic.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionic.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionic.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionic.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionic.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionicons/ionicons.scss" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/scss/ionicons/ionicons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionicons/ionicons.scss" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/scss/ionicons/ionicons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionicons/ionicons.scss" afterPath="$PROJECT_DIR$/../../www/lib/ionic/scss/ionicons/ionicons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/fonts/ionicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/fonts/ionicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/../../www/lib/ionic/fonts/ionicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/templates/map.html" afterPath="$PROJECT_DIR$/assets/www/templates/map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/map.html" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/templates/map.html" afterPath="$PROJECT_DIR$/../../www/templates/map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/templates/menu.html" afterPath="$PROJECT_DIR$/assets/www/templates/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/menu.html" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/templates/menu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/templates/menu.html" afterPath="$PROJECT_DIR$/../../www/templates/menu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/dist/ng-cordova-mocks.js" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/dist/ng-cordova-mocks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova-mocks.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova-mocks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/dist/ng-cordova-mocks.js" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/dist/ng-cordova-mocks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/dist/ng-cordova-mocks.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/dist/ng-cordova-mocks.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova-mocks.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova-mocks.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/dist/ng-cordova-mocks.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/dist/ng-cordova-mocks.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/dist/ng-cordova.js" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/dist/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/dist/ng-cordova.js" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/dist/ng-cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/dist/ng-cordova.min.js" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/dist/ng-cordova.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova.min.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/dist/ng-cordova.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/dist/ng-cordova.min.js" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/dist/ng-cordova.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular/package.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-animate/package.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular-animate/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/package.json" afterPath="$PROJECT_DIR$/assets/www/lib/angular-sanitize/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ngCordova/package.json" afterPath="$PROJECT_DIR$/assets/www/lib/ngCordova/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/package.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/package.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-animate/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/package.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-sanitize/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/package.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ngCordova/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular/package.json" afterPath="$PROJECT_DIR$/../../www/lib/angular/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-animate/package.json" afterPath="$PROJECT_DIR$/../../www/lib/angular-animate/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-sanitize/package.json" afterPath="$PROJECT_DIR$/../../www/lib/angular-sanitize/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ngCordova/package.json" afterPath="$PROJECT_DIR$/../../www/lib/ngCordova/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/resolve.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/resolve.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/resolve.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/resolve.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/resolve.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/resolve.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/state.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/state.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/state.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/state.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/state.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/state.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/stateDirectives.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/stateDirectives.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/stateDirectives.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/stateDirectives.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/stateDirectives.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/stateDirectives.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/stateFilters.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/stateFilters.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/stateFilters.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/stateFilters.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/stateFilters.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/stateFilters.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/css/style.css" afterPath="$PROJECT_DIR$/assets/www/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/css/style.css" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/css/style.css" afterPath="$PROJECT_DIR$/../../www/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/templateFactory.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/templateFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/templateFactory.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/templateFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/templateFactory.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/templateFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/urlMatcherFactory.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/urlMatcherFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/urlMatcherFactory.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/urlMatcherFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/urlMatcherFactory.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/urlMatcherFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/urlRouter.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/urlRouter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/urlRouter.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/urlRouter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/urlRouter.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/urlRouter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/ionic/version.json" afterPath="$PROJECT_DIR$/assets/www/lib/ionic/version.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/version.json" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/ionic/version.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/ionic/version.json" afterPath="$PROJECT_DIR$/../../www/lib/ionic/version.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/view.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/view.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/view.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/viewDirective.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/viewDirective.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/viewDirective.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/viewDirective.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/viewDirective.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/viewDirective.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/viewScroll.js" afterPath="$PROJECT_DIR$/assets/www/lib/angular-ui-router/src/viewScroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/viewScroll.js" afterPath="$PROJECT_DIR$/build/intermediates/assets/debug/www/lib/angular-ui-router/src/viewScroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/viewScroll.js" afterPath="$PROJECT_DIR$/../../www/lib/angular-ui-router/src/viewScroll.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="android.iws" />
@@ -73,8 +442,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../../../xamppfiles/htdocs/places/platforms/android/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46875">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.52224374">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1567,7 +1936,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.502442" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942554" sideWeight="0.497558" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942554" sideWeight="0.497558" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1689,20 +2058,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../xamppfiles/htdocs/places/platforms/android/assets/www/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../xamppfiles/htdocs/places/platforms/android/assets/www/templates/playlist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../xamppfiles/htdocs/places/platforms/android/assets/www/templates/menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.1960785">
@@ -1740,8 +2095,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../xamppfiles/htdocs/places/platforms/android/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46875">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.52224374">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>

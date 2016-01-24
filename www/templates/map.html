@@ -2,4 +2,16 @@
     <ion-content>
         <div id="map" data-tap-disabled="true"></div>
     </ion-content>
+	
+	<ion-footer-bar align-title="left" class="bar-assertive">
+	  <div class="buttons" ng-click="newTopics()">
+		<button class="button">Add New Topic</button>
+	  </div>
+	  <div class="buttons" ng-click="listTopics()">
+		<button class="button">List Nearby Topics</button>
+	  </div>
+	</ion-footer-bar>
 </ion-view>
+<style>
+.back-button{display:none;}
+</style>
